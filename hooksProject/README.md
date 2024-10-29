@@ -17,7 +17,7 @@ To run this project on your local machine, follow the steps below:
 
 1. **Clone the repository**:  
    ```bash
-   git clone 
+   git clone https://github.com/junaidshaik2600/React_Practice/tree/main/hooksProject
    ```
 
 2. **Navigate to the project directory**:  
