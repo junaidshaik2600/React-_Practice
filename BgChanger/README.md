@@ -49,4 +49,4 @@ Each color button is styled with Tailwind CSS classes to give it a unique look a
 
 ---
 
-This project serves as a great foundation for learning about React state management and Tailwind CSS styling..
+This project serves as a great foundation for learning about React state management and Tailwind CSS styling.
