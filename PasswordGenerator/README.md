@@ -60,4 +60,4 @@ The `useEffect` hook ensures that the password is automatically updated whenever
 
 ---
 
-**Note**: This `README.md` is purely for demonstration purposes and was not copied from another source. The content herein is original and tailored for this specific React project. Any resemblance to other projects or documentation is coincidental..
+**Note**: This `README.md` is purely for demonstration purposes and was not copied from another source. The content herein is original and tailored for this specific React project. Any resemblance to other projects or documentation is coincidental.
