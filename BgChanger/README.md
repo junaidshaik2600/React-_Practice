@@ -45,7 +45,7 @@ Your application will run on `http://localhost:3000` by default.
 
 The main logic is centered in `App.jsx`, where we define a `color` state variable using the `useState` hook to manage the background color. Each button has an `onClick` event that updates the `color` state with the respective color value, changing the background color of the entire screen..
 
-Each color button is styled with Tailwind CSS classes to give it a unique look and shadow effect, providing a clear and polished appearance to users..
+Each color button is styled with Tailwind CSS classes to give it a unique look and shadow effect, providing a clear and polished appearance to users.
 
 ---
 
