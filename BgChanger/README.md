@@ -39,7 +39,7 @@ The main components of the application are as follows:
    npm start
    ```
 
-Your application will run on `http://localhost:3000` by default..
+Your application will run on `http://localhost:3000` by default.
 
 ## How It Works
 
